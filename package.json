@@ -1,0 +1,36 @@
+{
+  "name": "npm-package-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for creating npm packages integrated with typescript and jest.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "npx jest"
+  },
+  "keywords": [
+    "nodejs",
+    "npm-package",
+    "typescript",
+    "jest",
+    "package",
+    "boilerplate"
+  ],
+  "author": "lakshyakumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.2",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "typescript": "^5.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshyakumar/npm-package-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lakshyakumar/npm-package-boilerplate/issues"
+  },
+  "homepage": "https://github.com/lakshyakumar/npm-package-boilerplate#readme"
+}
