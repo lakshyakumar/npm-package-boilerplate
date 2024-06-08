@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/lakshyakumar/npm-package-boilerplate/issues"
   },
-  "homepage": "https://github.com/lakshyakumar/npm-package-boilerplate#readme"
+  "homepage": "https://github.com/lakshyakumar/npm-package-boilerplate#readme",
+  "files": [
+    "dist/"
+  ]
 }
